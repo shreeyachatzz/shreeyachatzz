@@ -25,7 +25,8 @@
 
 
 <!--Github stats-->
-  [![Shreeya's Github Stats](https://github-readme-stats.vercel.app/api?username=shreeyachatzz)](https://github.com/shreeyachatzz/github-readme-stats)
+   <img width="1500" height="auto" align="center" alt="Shreeya's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=shreeyachatzz&row=1&column=7&theme=darkhub&margin-w=15e" />
 </p>
 
 <h3 align="center">Socials:</h3>
