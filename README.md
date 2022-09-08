@@ -25,8 +25,8 @@
 
 
 <!--Github stats-->
-<img width="500" height="300" align="right" alt="Samikmalhotra's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+<img width="500" height="300" align="right" alt="Shreeya's github stats" 
+         src="" />
 </p>
 
 <h3 align="center">Socials:</h3>
