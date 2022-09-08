@@ -10,9 +10,23 @@
 <p align='center'>
 <a><img align="center" title="Java" alt="Java" height="28px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" /></a>
 <a><img align="center" title="C" alt="C" height="30px" src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" /></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a><img align="center" title="py" alt="py" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /></a>
 <a><img align="center" title="HTML" alt="HTML" height="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" /></a>
 <a><img align="center" title="CSS" alt="CSS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /></a>
-<a><img align="center" title="py" alt="py" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+
+
+
+
+
+<!--Github stats-->
+<img width="500" height="300" align="right" alt="Samikmalhotra's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 </p>
 
 <h3 align="center">Socials:</h3>
