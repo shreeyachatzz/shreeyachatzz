@@ -46,3 +46,18 @@
 
 <img width="1500" height="auto" align="right" alt="Shreeya's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=shreeyachatzz&row=1&column=7&theme=darkhub&margin-w=15e" />
+
+         ## 📊 My Github Stats
+
+  <br/>
+    <a><img alt="Shreeya Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreeyachatzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="Shreeya Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyachatzzg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Languages used in my projects:
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=shreeyachatzz&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>
+
+
+
+
+<br/>
+<br/>
