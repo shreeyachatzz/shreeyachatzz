@@ -14,14 +14,10 @@ Hi! I am Shreeya Chatterji👩🏻, a Computer Engineering undergrad👩🏻‍�
   <img align='left' src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,cpp,java,python,tensorflow,pytorch,dart,flutter,git,github,vscode,linux,githubactions&perline=5" width='auto' height='auto'/>
   <img width="550" height="300" align="right" alt="Shreeya's github stats" src="https://github-readme-stats.vercel.app/api?username=shreeyachatzz&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" />
 </p>
-<br/>
 
-
-
-<br/>
-<p>
 <h4>Socials:</h4>
-<a href="https://dev.to/shreeyachatzz"><img align='left' height="40" src="https://skillicons.dev/icons?i=devto"></a>
-<a href="https://www.instagram.com/shreeya_chatz/"><img align='left' height="40" src="https://skillicons.dev/icons?i=instagram"></a>
-<a href="https://www.linkedin.com/in/shreeya-chatterji-3b9732203/"><img align='left' height="40" src="https://skillicons.dev/icons?i=linkedin"></a>
+<p align='left'>
+  <a href="https://dev.to/shreeyachatzz"><img align='left' height="40" src="https://skillicons.dev/icons?i=devto"></a>
+  <a href="https://www.instagram.com/shreeya_chatz/"><img align='left' height="40" src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="https://www.linkedin.com/in/shreeya-chatterji-3b9732203/"><img align='left' height="40" src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
