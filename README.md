@@ -14,7 +14,7 @@ Hi! I am Shreeya Chatterji👩🏻, a Computer Engineering undergrad👩🏻‍�
 <br/>
 <h3>Languages and tools</h3>
 <p align='center'>
-    <img width="350" height="auto" align="right" alt="Shreeya's github stats" src="https://github-readme-stats.vercel.app/api?username=shreeyachatzz&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" />
+    <img width="500" height="auto" align="right" alt="Shreeya's github stats" src="https://github-readme-stats.vercel.app/api?username=shreeyachatzz&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" />
     <img align='left' src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,cpp,java,python,tensorflow,pytorch,dart,flutter,git,github,vscode,linux,githubactions&perline=6" width='auto' height='auto'/>
 </p>
 
