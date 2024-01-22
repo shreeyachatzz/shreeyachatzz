@@ -13,26 +13,8 @@
 </p>
 
 **Languages and tools**
-<p align='left'>
-  
-<a><img  title="Java" alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /></a>
-<a><img title="C" alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a><img title="py" alt="py" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-<a><img title="py" alt="jn" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain-wordmark.svg" /></a> 
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>  
-
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="linux" width="40" height="40"/></a>
+<p align='center'>
+  <img align='left' src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,cpp,java,python,linux&perline=6" width='auto' height='auto'/>
 </p>
 
 <!--Github stats-->
