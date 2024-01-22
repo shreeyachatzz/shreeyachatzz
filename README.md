@@ -4,20 +4,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p>Hi! I am Shreeya Chatterji👩🏻, a Computer Engineering undergrad👩🏻‍💻 at Thapar Institute of Engineering and Technology🏫. I am an aspiring FULL STACK DEVELOPER💻 from India 🚀. Besides coding I enjoy painting🖌, reading books📚  and doing anything creative💡.</p>
+
 <p align="center">
 <img width="380" align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  </p>
- <p align="right">
-<img width="500" height="300" align="right" alt="Shreeya's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=shreeyachatzz&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
-</p>
+
+
 
 **Languages and tools**
 <p align='center'>
-  <img align='left' src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,cpp,java,python,linux&perline=6" width='auto' height='auto'/>
+  <img width="500" height="300" align="right" alt="Shreeya's github stats" src="https://github-readme-stats.vercel.app/api?username=shreeyachatzz&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" />
+  <img align='left' src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,c,cpp,java,python,tensorflow,pytorch,dart,flutter,git,github,vscode,linux&perline=6" width='auto' height='auto'/>
 </p>
 
-<!--Github stats-->
    
 **Socials:**
 <p align='left'>
