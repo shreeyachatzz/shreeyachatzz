@@ -22,6 +22,7 @@ I am a **Software Engineer at JPMorgan Chase** dedicated to building scalable, h
 ### 📂 Top Projects
 * 🦀 **[rust-todo-application](https://github.com/shreeyachatzz/rust_todo_application)**: Full-stack Rust backend with ReactTS frontend and Swagger integration.
 * 🌐 **[MTA_Portal](https://github.com/shreeyachatzz/MTA_Portal)**: Dynamic student management system built with the MERN stack and Python.
+* 🤖 **[A Deep Learning and Explainable Artificial Intelligence based Scheme for Breast Cancer Detection](https://www.nature.com/articles/s41598-024-80535-7)
 * 🤖 **[Loan-Approval-Prediction](https://github.com/shreeyachatzz/Loan-Approval-Prediction-Hybrid-Model)**: Hybrid binary classification model integrated with a ReactJS frontend via Flask.
 * 💰 **Ether-Mate**: A shared cryptocurrency wallet capstone project featuring real-time data analytics.
 
